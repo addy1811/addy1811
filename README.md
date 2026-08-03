@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Mewar</h1>
 <h3 align="center">A passionate Software Engineer from India focused on building scalable applications</h3>
 
-- 🔭 I’m currently working on **Real-Time Incident Detection using Mobile/Laptop Camera**
-
 - 🌱 I’m currently learning **System Desgin & LLMs**
 
 - 👨‍💻 All of my projects are available at [https://addy1811.github.io/3D_Portfolio/](https://addy1811.github.io/3D_Portfolio/)
